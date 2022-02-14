@@ -4,6 +4,6 @@ This tool works on only in Kali Linux! Because rockyou.txt text file is only in 
 
 ## If you want to use this tool you need specify hashes on it
 
->> sha256_password_cracker.py <sha256sum> 
+sha256_password_cracker.py sha256sum
   
  
